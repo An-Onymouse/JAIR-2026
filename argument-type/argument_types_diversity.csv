@@ -1,0 +1,294 @@
+All Judges
+chi2:,11.750245982669203
+p-value:,0.0006083519760207343
+significant:,True
+Actual counts:
+,Wins,Losses
+Same Types,5937,6265
+Different Types,18063,17735
+
+Expected counts:
+,Wins,Losses
+Same Types,6101.0,6101.0
+Different Types,17899.0,17899.0
+
+claude-haiku-4-5-20251001_8k-thinking
+chi2:,3.694843850169429
+p-value:,0.054580890965143736
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,284,326
+Different Types,916,874
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+claude-haiku-4-5-20251001_nothinking
+chi2:,0.0
+p-value:,1.0
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,305,305
+Different Types,895,895
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+claude-sonnet-4-5-20250929_1k-thinking
+chi2:,4.064108434838355
+p-value:,0.043803802991996973
+significant:,True
+Actual counts:
+,Wins,Losses
+Same Types,283,327
+Different Types,917,873
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+claude-sonnet-4-5-20250929_8k-thinking
+chi2:,1.6023445370455172
+p-value:,0.2055712718859996
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,291,319
+Different Types,909,881
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+deepseek-chat_defaults
+chi2:,0.7934792563421558
+p-value:,0.373050143915846
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,295,315
+Different Types,905,885
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+deepseek-reasoner_defaults
+chi2:,9.866837622492902
+p-value:,0.0016828450994562545
+significant:,True
+Actual counts:
+,Wins,Losses
+Same Types,271,339
+Different Types,929,861
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+gemini-2.5-flash-lite_nonreasoning
+chi2:,0.008801533667241516
+p-value:,0.9252549328786238
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,303,306
+Different Types,897,894
+
+Expected counts:
+,Wins,Losses
+Same Types,304.5,304.5
+Different Types,895.5,895.5
+
+gemini-2.5-flash-lite_reasoning
+chi2:,1.3707944027722947
+p-value:,0.24167544121782636
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,293,319
+Different Types,907,881
+
+Expected counts:
+,Wins,Losses
+Same Types,306.0,306.0
+Different Types,894.0,894.0
+
+gemini-3-pro-preview_1k-thinking
+chi2:,0.1780382818939463
+p-value:,0.6730645585024417
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,300,310
+Different Types,900,890
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+gemini-3-pro-preview_8k-thinking
+chi2:,0.0021980034801721768
+p-value:,0.9626065810038499
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,306,304
+Different Types,894,896
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+gpt-5-nano_medium-reasoning
+chi2:,0.7934792563421558
+p-value:,0.373050143915846
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,295,315
+Different Types,905,885
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+gpt-5-nano_minimal-reasoning
+chi2:,0.019782031321549595
+p-value:,0.8881475451585942
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,303,307
+Different Types,897,893
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+gpt-5.1_low-reasoning
+chi2:,1.8485209268248008
+p-value:,0.17395551735952858
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,320,290
+Different Types,880,910
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+gpt-5.1_medium-reasoning
+chi2:,0.37146258814909794
+p-value:,0.5422081097269171
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,298,312
+Different Types,902,888
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+mistralai/Magistral-Small-2506_defaults
+chi2:,5.949836759055266
+p-value:,0.014718649052569414
+significant:,True
+Actual counts:
+,Wins,Losses
+Same Types,278,331
+Different Types,922,869
+
+Expected counts:
+,Wins,Losses
+Same Types,304.5,304.5
+Different Types,895.5,895.5
+
+mistralai/Mistral-Small-3.2-24B-Instruct-2506_defaults
+chi2:,0.1776549545992894
+p-value:,0.6733963293123054
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,301,311
+Different Types,899,889
+
+Expected counts:
+,Wins,Losses
+Same Types,306.0,306.0
+Different Types,894.0,894.0
+
+Qwen/Qwen3-32B_nothinking
+chi2:,0.05495008700430442
+p-value:,0.8146633200780533
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,308,302
+Different Types,892,898
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+Qwen/Qwen3-32B_thinking
+chi2:,0.6352230057697591
+p-value:,0.4254459283747407
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,314,296
+Different Types,886,904
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+QWen/Qwen3-8B_nothinking
+chi2:,2.112281344445462
+p-value:,0.14612133890481704
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,289,321
+Different Types,911,879
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+
+QWen/Qwen3-8B_thinking
+chi2:,0.1780382818939463
+p-value:,0.6730645585024417
+significant:,False
+Actual counts:
+,Wins,Losses
+Same Types,300,310
+Different Types,900,890
+
+Expected counts:
+,Wins,Losses
+Same Types,305.0,305.0
+Different Types,895.0,895.0
+

@@ -1,0 +1,25 @@
+Model,Counter Flipped,Chat Flipped,Both Flipped
+Large Closed
+claude-sonnet-4-5-20250929_8k-thinking,0.11,0.55,0.09
+claude-sonnet-4-5-20250929_1k-thinking,0.18,0.66,0.18
+gemini-3.1-pro-preview_8k-thinking,0.07,0.10,0.06
+gemini-3.1-pro-preview_1k-thinking,0.11,0.11,0.07
+gpt-5.1_medium-reasoning,0.17,0.11,0.04
+gpt-5.1_low-reasoning,0.19,0.06,0.03
+Large Open
+deepseek-reasoner_defaults,0.74,0.46,0.39
+deepseek-chat_defaults,0.76,0.59,0.51
+Qwen/Qwen3-32B_thinking,0.93,0.69,0.65
+Qwen/Qwen3-32B_nothinking,0.81,0.65,0.57
+Small Closed
+claude-haiku-4-5-20251001_8k-thinking,0.44,0.75,0.38
+claude-haiku-4-5-20251001_nothinking,0.29,0.88,0.28
+gemini-2.5-flash-lite_reasoning,0.82,0.63,0.54
+gemini-2.5-flash-lite_nonreasoning,0.77,0.85,0.70
+gpt-5-nano_medium-reasoning,0.70,0.53,0.41
+gpt-5-nano_minimal-reasoning,0.82,0.77,0.64
+Small Open
+mistralai/Magistral-Small-2506_defaults,0.86,0.92,0.80
+mistralai/Mistral-Small-3.2-24B-Instruct-2506_defaults,0.75,0.90,0.69
+QWen/Qwen3-8B_thinking,0.72,0.78,0.57
+QWen/Qwen3-8B_nothinking,0.81,0.84,0.70

@@ -1,0 +1,1 @@
+This is the code and data for producing Figure 1: Population persuadability, maximum pairwise persuadability and pairwise persuadability by Advocate pair for each Judge model.

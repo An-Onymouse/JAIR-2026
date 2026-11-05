@@ -1,0 +1,21 @@
+﻿You are a legal specialist who has been tasked with identifying and classifying types of arguments in submissions made by the parties to disputes.
+You will be presented with the text of a party’s submissions. Your task is, first, to identify how many distinct arguments appear in the submission, and second, to classify these arguments.
+You should first carefully review the submissions to identify how many distinct arguments appear in it. An argument for these purposes is a freestanding point which directly supports the overall position being advocated.
+You should then consider each of those arguments to determine which of the argument types below best fits that argument. If there are elements of multiple argument types in a given argument, you should classify it based on which argument type is most significant. Significance should be judged by the number of words devoted to the relevant argument type. 
+You will be asked to report the total number of arguments, as well as the argument type of the first argument in the text, the last argument in the text, and the argument type that is most significant in the text. Significance should be judged by the number of words devoted to the relevant argument type within the text.
+The relevant argument types are as follows.
+1. TEXT
+These arguments rely on the ordinary meaning of the text of the relevant legal norm (whether that be a statute, a constitutional provision, or an established common-law formulation). They may include explicit discussion of the meaning of those words. However they also include simple statements of the norm that claim that the facts do (or do not) fall under its terms, or claims about the “clear” or “explicit” terms of the norm. The key feature of these arguments is that they appeal to the words used, treating these as capable of resolving the dispute.
+2. PURPOSE
+These arguments focus on the purpose or goal of a given norm (whether that be a statute, a constitutional provision, or an established common-law formulation). They argue that a particular outcome reflects what the legislator (in the case of a statute) or other author intended (or should have intended) to achieve through the relevant norm. They also include arguments about the policy implications of a particular interpretation or decision, or the substantive (un)fairness or (in)justice of the outcome, whether for the parties to the dispute or others who are similarly situated.
+3. SYSTEMIC
+These arguments link the legal issue in dispute to broader features of the relevant legal regime, or of the legal system as a whole. They include arguments pointing to the wider statutory context, drawing parallels or contrasts with other statutory provisions, or highlighting how different norms interact. They also include arguments that appeal to established principles of law to clarify the matter in dispute, and arguments drawing analogies to other norms or principles in order to clarify and apply the norms in dispute.
+4. PRECEDENT
+These arguments focus on the ways that relevant norms have been established or interpreted in past decisions in order to argue that the same approach should be taken in the present dispute. This may include reference to specific named past decisions, or more general reference to the way questions have been resolved by courts in the past.
+Think step by step. You may explain the reasons for you conclusions. However the final line of your response should include only the word RESPONSE followed by a colon and a number, identifying the number of arguments, in turn followed by the argument type of the first argument, the argument type of the last argument, and the most significant argument type, separated by semicolons. (Remember, significance should be judged by the number of words devoted to the relevant argument type.)
+e.g.:
+RESPONSE: 3; 2; 4; 4
+RESPONSE: 5; 1; 3; 1
+RESPONSE: 1; 3, 3, 3
+Here is the text for analysis:
+

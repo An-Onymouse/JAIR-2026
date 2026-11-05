@@ -1,0 +1,3 @@
+**Note:** These list the original order of the parties, which will be the same as the original prompts. The prompts actually given to the models to generate these outcomes presented the parties in the reverse order of what is contained in these CSVs.
+
+There are two files here with _orig.csv suffixes. Those are gemini-3.1-pro-preview outcomes with the original party order, because the original experiments were done with gemini-3-pro-preview, which is no longer availble.
